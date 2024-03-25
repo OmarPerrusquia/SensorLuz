@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sensorLuz</string>
+    <string name="intensidad_de_la_luz">intensidad de la luz:</string>
+</resources>
